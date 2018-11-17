@@ -1,7 +1,6 @@
 import sys
 from StackMachine import StackMachine               #Inports custom StackMachine class
 
-print("Assignment #4-1, Joseph Tinglof, jbtinglof@gmail.com")
 theThing = StackMachine()                           #Creates StackMachine object
 
 file_name = sys.argv[1]                             #Stores name of text file to be used
