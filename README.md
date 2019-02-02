@@ -1,2 +1,2 @@
-# beginner-python
-School work done in Python
+# Beginner Python
+A collection of simple projects done in Python.
